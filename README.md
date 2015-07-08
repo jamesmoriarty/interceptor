@@ -2,6 +2,8 @@
 
 [![Code Climate](https://codeclimate.com/github/jamesmoriarty/interceptor/badges/gpa.svg)](https://codeclimate.com/github/jamesmoriarty/interceptor) [![Test Coverage](https://codeclimate.com/github/jamesmoriarty/interceptor/badges/coverage.svg)](https://codeclimate.com/github/jamesmoriarty/interceptor/coverage)
 
+## Usage
+
 ```ruby
 require 'interceptor'
 
@@ -28,20 +30,12 @@ Repository.save({name: 'yiss'}) # => {name: 'yiss'}
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'interceptor'
+gem 'interceptor', github: "jamesmoriarty/interceptor"
 ```
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install interceptor
-
-## Usage
-
-TODO: Write usage instructions here
 
 ## Development
 
