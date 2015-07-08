@@ -1,6 +1,6 @@
 # Interceptor
 
-
+[![Code Climate](https://codeclimate.com/github/jamesmoriarty/interceptor/badges/gpa.svg)](https://codeclimate.com/github/jamesmoriarty/interceptor) [![Test Coverage](https://codeclimate.com/github/jamesmoriarty/interceptor/badges/coverage.svg)](https://codeclimate.com/github/jamesmoriarty/interceptor/coverage)
 
 ```ruby
 require 'interceptor'
