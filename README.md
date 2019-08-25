@@ -30,7 +30,7 @@ Repository.save({name: 'yiss'}) # => {name: 'yiss'}
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'interceptor', github: "jamesmoriarty/interceptor"
+gem 'interceptor', github: 'jamesmoriarty/interceptor'
 ```
 
 And then execute:
